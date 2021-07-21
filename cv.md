@@ -7,7 +7,7 @@
  </ul>
 <h2>Summary</h2>
 <p>Result-driven Front-end developer with 9+ years of experience in financial field.
-    Strong analytical and troubleshooting skills. </p>
+Strong analytical and troubleshooting skills. </p>
 <p>Open-minded and reliable person with excellent interpersonal and communications skills, with attention to detail and the bigger picture in mind.</p>
 <p>Superior capacity of understanding new concepts and applying them correctly.</p>
 <h2>Skills</h2>
